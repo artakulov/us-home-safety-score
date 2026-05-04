@@ -1,5 +1,11 @@
 # us-home-safety-score
 
+[![npm version](https://img.shields.io/npm/v/us-home-safety-score?label=npm&color=cb3837)](https://www.npmjs.com/package/us-home-safety-score)
+[![npm downloads/month](https://img.shields.io/npm/dm/us-home-safety-score?label=downloads%2Fmo&color=cb3837)](https://www.npmjs.com/package/us-home-safety-score)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20000549.svg)](https://doi.org/10.5281/zenodo.20000549)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Data: zipcheckup.com](https://img.shields.io/badge/data-zipcheckup.com-1B4D3E.svg)](https://zipcheckup.com)
+
 Compute residential Home Safety Scores (0-100, A-F) from U.S. federal data. Zero dependencies. Works in Node.js 14+.
 
 The **Home Safety Score** is a composite index that evaluates environmental risk for any U.S. ZIP code across four dimensions:
