@@ -1,18 +1,18 @@
 {
   "name": "us-home-safety-score",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compute residential Home Safety Scores (0-100, A-F) from federal data: EPA water violations, lead/copper levels, EPA radon zones, and FEMA flood claims.",
   "main": "index.js",
   "types": "index.d.ts",
   "license": "MIT",
   "author": "ZipCheckup <hello@zipcheckup.com> (https://zipcheckup.com)",
-  "homepage": "https://github.com/zipcheckup/us-home-safety-score",
+  "homepage": "https://zipcheckup.com/about/home-safety-score/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zipcheckup/us-home-safety-score.git"
+    "url": "https://github.com/artakulov/us-home-safety-score.git"
   },
   "bugs": {
-    "url": "https://github.com/zipcheckup/us-home-safety-score/issues"
+    "url": "https://github.com/artakulov/us-home-safety-score/issues"
   },
   "keywords": [
     "home-safety",
