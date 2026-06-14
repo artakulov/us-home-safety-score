@@ -1,6 +1,6 @@
 {
   "name": "us-home-safety-score",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Compute residential Home Safety Scores (0-100, A-F) from federal data: EPA water violations, lead/copper levels, EPA radon zones, and FEMA flood claims.",
   "main": "index.js",
   "types": "index.d.ts",
